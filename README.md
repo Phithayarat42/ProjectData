@@ -1,4 +1,4 @@
-# ProjectData :blush: :rage: :flushed:
+# ProjectData :blush: :rage: :neutral_face:
 Information used in the project, about Sentiment Analysis.
 
 |              Name                  |  Status                                        |
@@ -12,4 +12,5 @@ Information used in the project, about Sentiment Analysis.
 ### Use labels.   
 :white_check_mark: TW_64_DataMid_01.csv   
 :white_check_mark: current_tw_03.csv   
+:white_check_mark: Tw_LabelData_64_01.csv :bangbang:   
 
